@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "怪物たちよ",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2026-02-21T12:58:01.130677Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪物たちよ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_怪物たちよ_Saucy_Dog.txt"
+    }
+  ]
+}
